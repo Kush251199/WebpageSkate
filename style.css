@@ -6,3 +6,53 @@
 	background-color: #eceeef;
 	padding: 2em;
 }
+
+.sectionDark {
+	background-color: #cccccc;
+	padding: 2rem;
+}
+
+.buttonWrapper {
+	margin-top: 20px;
+}
+
+button.coolStuffButton {
+	background-color: red;
+	color: #ffffff;
+	display: block;
+	margin: auto;
+}
+
+h5.modal-title {
+	margin-left: auto;
+}
+
+.modalFormWrapper {
+	padding: 2rem;
+}
+
+button.submitButtonStyle {
+	background-color: red;
+	color: #ffffff;
+}
+
+.imgCenter {
+	display: block;
+	margin: auto;
+}
+
+.btnCenter{
+	display: block;
+	margin: auto;
+	margin-top: 15px;
+	margin-bottom: 20px;
+	width: 67.5%;
+}
+
+.footerImg {
+	padding: 15px;
+}
+
+.fa-facebook {
+	color: #3b5998;
+}
